@@ -1,0 +1,51 @@
+Packet = 0x82
+One: Done processing for: 50.0068ms
+One: Done waiting for another: 50.3719ms
+One: Done processing for: 50.005ms
+One: Done waiting for another: 50.2141ms
+One: Done processing for: 50.007ms
+One: Done waiting for another: 50.2277ms
+One: Done processing for: 50.0065ms
+One: Done waiting for another: 50.2116ms
+One: Done processing for: 50.0066ms
+One: Done waiting for another: 50.155ms
+Zero: Done waiting for another: 100.193ms
+Zero: Done waiting for another: 100.191ms
+Zero: Done waiting for another: 100.178ms
+Zero: Done waiting for another: 100.184ms
+Zero: Done waiting for another: 100.184ms
+Zero: Done waiting for another: 100.183ms
+Zero: Done waiting for another: 100.188ms
+Zero: Done waiting for another: 100.181ms
+Zero: Done waiting for another: 100.198ms
+Zero: Done waiting for another: 100.183ms
+Zero: Done waiting for another: 100.191ms
+Zero: Done waiting for another: 100.183ms
+Zero: Done waiting for another: 100.179ms
+Zero: Done waiting for another: 100.221ms
+Zero: Done waiting for another: 100.215ms
+Zero: Done waiting for another: 100.195ms
+Zero: Done waiting for another: 100.184ms
+Zero: Done waiting for another: 100.184ms
+Zero: Done waiting for another: 100.187ms
+Zero: Done waiting for another: 100.183ms
+Zero: Done waiting for another: 100.203ms
+Zero: Done waiting for another: 100.186ms
+Zero: Done waiting for another: 100.204ms
+Zero: Done waiting for another: 100.191ms
+Zero: Done waiting for another: 100.184ms
+One: Done processing for: 50.0062ms
+One: Done waiting for another: 50.0933ms
+One: Done processing for: 50.0027ms
+One: Done waiting for another: 50.0943ms
+One: Done processing for: 50.0025ms
+One: Done waiting for another: 50.0819ms
+One: Done processing for: 50.005ms
+One: Done waiting for another: 50.089ms
+One: Done processing for: 50.0028ms
+One: Done waiting for another: 50.0938ms
+Zero: Done waiting for another: 100.184ms
+Zero: Done waiting for another: 100.185ms
+Zero: Done waiting for another: 100.18ms
+Zero: Done waiting for another: 100.187ms
+Zero: Done waiting for another: 100.186ms
