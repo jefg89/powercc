@@ -1,0 +1,4 @@
+100 packets, 8 bit per packets
+
+baseline_BER = 4.62%
+dvfs_BER = 53.37%
